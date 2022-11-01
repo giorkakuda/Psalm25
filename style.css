@@ -65,7 +65,8 @@ section.imagem {
     color: white;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.466);
     background-attachment: fixed;
-
+    background-position: top center;
+    background-size: cover;
 }
 section.imagem > p {
     display: inline-block;
@@ -75,15 +76,10 @@ section.imagem > p {
 }
 section#site01 {
     background-image: url('../Psalm25/imagens/image1.png');
-    background-position: center;
-    background-size: cover;
-
 }
 section#site02 {
     background-image: url('../Psalm25/imagens/image2.png');
-    background-position: center;
-    background-size: cover;
-
+    
 }
 footer {
     background-color: black;
