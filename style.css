@@ -74,13 +74,13 @@ section.imagem > p {
     text-shadow: 1px 1px 0px black;
 }
 section#site01 {
-    background-image: url('../Site/imagens/site01.png');
+    background-image: url('../Psalm25/imagens/image1.png');
     background-position: center;
     background-size: cover;
 
 }
 section#site02 {
-    background-image: url('../Site/imagens/site02.png');
+    background-image: url('../Psalm25/imagens/image2.png');
     background-position: center;
     background-size: cover;
 
